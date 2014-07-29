@@ -82,4 +82,17 @@ Note: Remember to put "" in your string.
 
 
 
+The '.reverse' Method :-
+--------------------------
+
+The .reverse method is called the same way .length is, but instead of asking Ruby to tell you how long a string is, it spits out a backwards version of the string you gave it. 
+
+For instance,
+
+"Eric".reverse
+will result in
+
+"cirE"
+
+Reversing input can be useful if you want to sort a list of values from highest to lowest instead of lowest to highest. 
 
