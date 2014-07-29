@@ -27,3 +27,18 @@ num = 25
 
 Declaring variables in Ruby is easy: you just write out a name like num, use = to assign it a value, and you're done! If you need to change a variable, no sweat: just type it again and hit = to assign it a new value.
 
+'puts' and 'print' :-
+----------------------
+
+The print command just takes whatever you give it and prints it to the screen. 
+
+puts (for "put string") is slightly different: it adds a new (blank) line after the thing you want it to print. 
+
+We use them like this:
+
+puts "What's up?"
+print "Oxnard Montalvo"
+
+No parentheses or semicolons needed!
+
+
