@@ -42,3 +42,19 @@ print "Oxnard Montalvo"
 No parentheses or semicolons needed!
 
 
+Everything in Ruby is an Object :-
+------------------------------------
+
+Because everything in Ruby is an object, everything in Ruby has certain built-in abilities called methods. 
+
+We can think of methods as "skills" that certain objects have. For instance, strings (words or phrases) have built-in methods that can tell you the length of the string, reverse the string, and more.
+
+Interpreter:-
+--------------
+
+The interpreter is the program that takes the code we write and runs it. 
+
+We type code in the editor, the interpreter reads our code, and it shows the result of running our code in the console.
+
+
+
