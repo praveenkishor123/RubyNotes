@@ -18,3 +18,12 @@ Data Types: Numbers, Strings, Booleans
 In Ruby, data can come in different types. There are three data types in Ruby that we're interested in right now: numbers, booleans (which can be true or false), and strings (words or phrases like "I'm learning Ruby!").
 
 It's also important to remember that Ruby is case-sensitive (it cares about capitalization).
+
+
+Variables:-
+-------------
+
+num = 25
+
+Declaring variables in Ruby is easy: you just write out a name like num, use = to assign it a value, and you're done! If you need to change a variable, no sweat: just type it again and hit = to assign it a new value.
+
