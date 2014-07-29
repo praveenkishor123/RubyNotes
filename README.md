@@ -73,3 +73,13 @@ Taking the length of input can be useful if, for example, you want to make a web
 
 Ruby can check to make sure the credit card number appears to be valid.
 
+Example on my name :)
+-----------------------
+
+"Praveen".length gives 7 as output.
+
+Note: Remember to put "" in your string.
+
+
+
+
