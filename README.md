@@ -121,10 +121,17 @@ I don't need any # symbols.
 =end
 
 
+Ruby multiple methods :-
+----------------------------
+
+name = "PRAVEEN"
+
+name.downcase.reverse.upcase
+
+This will print "NEEVARP"
 
 
-
-
+"name.downcase.reverse.upcase" method will first change name to lowercase, then reverse it and finally prints its uppercase.
 
 
 
