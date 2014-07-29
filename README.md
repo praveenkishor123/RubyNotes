@@ -96,3 +96,17 @@ will result in
 
 Reversing input can be useful if you want to sort a list of values from highest to lowest instead of lowest to highest. 
 
+
+
+'.upcase' & '.downcase' :-
+----------------------------
+
+The .upcase and .downcase methods convert a string to ALL UPPER CASE or all lower case, respectively.
+
+Call .upcase on your name to make your name ALL CAPS and use puts to print it to the screen, like this:
+
+puts "praveen".upcase
+  # ==> PRAVEEN
+
+puts "PRAVEEN".downcase
+  #  ==> praveen
