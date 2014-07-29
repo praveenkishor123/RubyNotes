@@ -110,3 +110,21 @@ puts "praveen".upcase
 
 puts "PRAVEEN".downcase
   #  ==> praveen
+
+
+Multi-Line Comments:-
+-----------------------
+
+=begin
+I'm a comment!
+I don't need any # symbols.
+=end
+
+
+
+
+
+
+
+
+
